@@ -1,0 +1,18 @@
+#container {
+  font-family: sans-serif;
+  width: 200px;
+  height: auto;
+  background: orange;
+  padding: 30px;
+  color: white;
+}
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+button {
+  color: orange;
+  background-color: white;
+  padding: 10px 20px;
+  border: 0px;
+  border-radius: 50px;
+}
